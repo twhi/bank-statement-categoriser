@@ -14,8 +14,6 @@ Trains and applies Machine Learning models to categorise bank statements.
 4. Activate virtual environment:
    
    `venv\scripts\activate` (Windows) 
-   
-   `venv/bin/activate` (Linux/Mac)
 
 5. Install requirements:
 
